@@ -3,8 +3,6 @@ Computer Science student at **UFES** (Brazil) and **Software Engineering Intern 
 
 My projects combine **React** interfaces with **Python** applications for AI and computer vision. I enjoy building practical solutions, improving code quality, and making development workflows simpler.
 
-[Portfolio](https://artur-slo.github.io/WebDev/) · [LinkedIn](https://www.linkedin.com/in/artur-v%C3%ADtor-a7a375401/)
-
 # 💻 Tech Stack:
 
 **Frontend**
